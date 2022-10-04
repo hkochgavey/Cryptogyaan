@@ -34,13 +34,7 @@ To qualify for the __official limited edition Hacktoberfest shirt__, you must re
 
 
 ## The Project :star:
-# Sports-Entry-System
-A management system which can be used in the schools and colleges for registering and managing the details during sports fest. Hacktoberfest-accepted.
-
-This code was scanned from a printed file. Therefore, debugging has to be done. Anyone is welcome to help me!!!
-
-
-
+#CryptoGyaan
 A cryptocurrency is `a digital currency, which is an alternative form of payment created using encryption algorithms.` The use of encryption technologies means that cryptocurrencies function both as a currency and as a virtual accounting system.  
 
 - To use cryptocurrencies, you need a cryptocurrency wallet and the knowledge of how crypto currency works and there's no better way to learn somthing without reading   
