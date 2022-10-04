@@ -34,7 +34,7 @@ To qualify for the __official limited edition Hacktoberfest shirt__, you must re
 
 
 ## The Project :star:
-#CryptoGyaan
+# CryptoGyaan
 A cryptocurrency is `a digital currency, which is an alternative form of payment created using encryption algorithms.` The use of encryption technologies means that cryptocurrencies function both as a currency and as a virtual accounting system.  
 
 - To use cryptocurrencies, you need a cryptocurrency wallet and the knowledge of how crypto currency works and there's no better way to learn somthing without reading   
